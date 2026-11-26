@@ -1,0 +1,48 @@
+{
+  "pairwise": {
+    "A": {
+      "wins": 8,
+      "beats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "B": {
+      "wins": 7,
+      "beats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    "C": {
+      "wins": 6,
+      "beats": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  },
+  "winner": "A",
+  "reasons": {
+    "A": "Best inversion and real punch: freeloading pigeons already have the round, so the ask is to preserve a winning position.",
+    "B": "Sharp surveillance parody with a strong final look-up twist, but the Google comparison is a familiar setup.",
+    "C": "Original hostile-acquisition angle and a good chip punch, but the setup is slightly more abstract than A's."
+  },
+  "provider": "tokenrouter",
+  "model": "deepseek/deepseek-v4.1-flash-1017-free"
+}
